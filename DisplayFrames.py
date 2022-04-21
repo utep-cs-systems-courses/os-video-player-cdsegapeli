@@ -4,8 +4,8 @@ import cv2
 import time
 
 # globals
-outputDir    = 'frames'
-frameDelay   = 42       # the answer to everything
+outputDir = 'frames'
+frameDelay = 42       # the answer to everything
 
 # initialize frame count
 count = 0

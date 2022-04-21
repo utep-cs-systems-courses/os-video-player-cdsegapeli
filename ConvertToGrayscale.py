@@ -3,7 +3,7 @@
 import cv2
 
 # globals
-outputDir    = 'frames'
+outputDir = 'frames'
 
 # initialize frame count
 count = 0
